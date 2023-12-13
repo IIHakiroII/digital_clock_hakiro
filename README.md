@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://iihakiroii.github.io/digital_clock_hakiro/)
 
 
 ## Getting Started
